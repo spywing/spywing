@@ -13,9 +13,11 @@
 
 <h2 align="center" style="color:gold;"> 🚀 About Me </h2>
 
-- 🌟 **Passionate about**: _Game Development, AI, and Web Design_
-- 💡 **Skills**: _Godot, Python, GDScript, Game Design, Frontend Development_
-- 🎯 **Current Goals**: _Master Game Programming and Create a Fun 2D Game_ 
+<p style="color:gold;">
+  🌟 <strong>Passionate about:</strong> Game Development, AI, and Web Design<br>
+  💡 <strong>Skills:</strong> Godot, Python, GDScript, Game Design, Frontend Development<br>
+  🎯 <strong>Current Goals:</strong> Master Game Programming and Create a Fun 2D Game<br>
+</p>
 
 ---
 
@@ -40,3 +42,4 @@
 ---
 
 <h4 align="center" style="color:gold;">⚡️ “Code is like humor. When you have to explain it, it’s bad.”</h4>
+
