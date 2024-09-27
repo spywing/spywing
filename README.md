@@ -1,4 +1,4 @@
-![Background](https://your-image-link.com/background-image.png)
+![Background]([https://your-image-link.com/background-image.png](https://github.com/spywing/images-for-use/blob/main/Gradient%20%2B%20glitters.png))
 
 <h1 align="center" style="color:#FFD700;"> Welcome to My GitHub 👋 </h1>
 
