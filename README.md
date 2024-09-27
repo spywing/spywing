@@ -1,3 +1,5 @@
+![Background](https://your-image-link.com/background-image.png)
+
 <h1 align="center" style="color:#FFD700;"> Welcome to My GitHub 👋 </h1>
 
 <p align="center">
