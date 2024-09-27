@@ -1,4 +1,4 @@
-<div style="background-image: url('https://your-image-link.com/background-image.png'); background-size: cover; padding: 20px; border-radius: 10px; color: #FFD700;">
+<div style="background-image: url('https://github.com/spywing/images-for-use/blob/main/Gradient%20%2B%20glitters.png'); background-size: cover; padding: 20px; border-radius: 10px; color: #FFD700;">
   <h1 align="center"> Welcome to My GitHub 👋 </h1>
 
   <p align="center">
